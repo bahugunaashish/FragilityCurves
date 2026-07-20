@@ -30,7 +30,7 @@ DAMAGE_STATE_DEFAULTS = {
     "Moderate": 0.05,
     "Collapse": 0.10,
 }
-COLOR_OPTIONS = ["blue", "red", "green", "purple", "orange", "black", "cyan", "magenta", "yellow"]
+COLOR_OPTIONS = ["white","blue", "red", "green", "purple", "orange", "black", "cyan", "magenta", "yellow"]
 LINESTYLE_OPTIONS = ["-", "--", ":", "-."]
 MARKER_OPTIONS = ["None", "o", "^", "s", "D", "x", "+", "*", "v", "<", ">", "p", "h"]
 
